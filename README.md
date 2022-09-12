@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects.**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://mehmetzorlu07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at <a href="https://mehmetzorlu07.github.io/Portfolio/" target="_blank">my portfolio.</a>
 
 - 💬 Ask me about **anything.**
 
