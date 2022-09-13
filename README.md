@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **memo.zzzorlu@gmail.com**
 
-- 📄 Know about my experiences [CV.com](CV.com)
-
 - ⚡ Fun fact **I am a musician 🎹, gamer 🎮 and chess player ♟.**
 
 <h3 align="left">Connect with me:</h3>
